@@ -1,0 +1,50 @@
+
+.navbar-nav>li>a:hover{
+	background-color: #f2f2f2;
+}
+.content-area{
+	background-color: rgb(233, 236, 239);
+	max-width: 1000px;
+	height: 500px;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	box-sizing : border-box;
+	padding : 20px 40px;
+}
+.main-area{
+	
+}
+
+.name{
+	#name-first{
+	width: 40%;
+	float: left;
+}
+	#name-second{
+	width: 60%;
+	float: left;
+	margin-left : 0;
+}
+}
+
+
+#ed-first{
+	width: 40%;
+	float: left;
+}
+#ed-second{
+	width: 60%;
+	float: left;
+}
+.hobbies{
+	#hb{
+	width: 40%;
+	float : left;
+	}
+	ul{
+	width: 40%;
+	float: left;
+	}
+}
